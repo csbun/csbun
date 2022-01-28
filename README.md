@@ -1,5 +1,10 @@
-![](https://github.githubassets.com/images/mona-whisper.gif)
+<p align="center">
+<img width="48" src="https://github.githubassets.com/images/mona-loading-default.gif" />
+</p>
+
 <!--
+
+![](https://github.githubassets.com/images/mona-whisper.gif)
 **csbun/csbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
